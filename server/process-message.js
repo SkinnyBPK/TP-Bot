@@ -1,10 +1,9 @@
-// process-message.js
+
 
 const Dialogflow = require('dialogflow');
 const Pusher = require('pusher');
 
-// You can find your project ID in your Dialogflow agent settings
-const projectId = 'it-bot-24bba'; //https://dialogflow.com/docs/agents#settings
+const projectId = 'newagent-41ace'; //https://dialogflow.com/docs/agents#settings
 const sessionId = '123456';
 const languageCode = 'en-US';
 
